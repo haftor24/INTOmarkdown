@@ -7,12 +7,11 @@
 </ul>
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið 
 
 Vid notudum ubuntu a virtual box. Gekk vonum framar. Notudumst vid linka inn a  myschool til ad na i virtual box og ubuntu. Enginn af okkur lenti i nokkrum vandraedum vid tad. 
 
-![Alt text](/home/ubuntu/INTOmarkdown/mynd.jpg)
-![Alt text](/home/ubuntu/INTOmarkdown/mynd.jpg "mynd")
+!;[Alt text](/home/ubuntu/INTOmarkdown/mynd.jpg)
+!;[Alt text](/home/ubuntu/INTOmarkdown/mynd.jpg "mynd")
 
 ## 2. Uppsetning á vim && git
 
