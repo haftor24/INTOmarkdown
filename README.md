@@ -10,8 +10,8 @@
 
 Vid notudum ubuntu a virtual box. Gekk vonum framar. Notudumst vid linka inn a  myschool til ad na i virtual box og ubuntu. Enginn af okkur lenti i nokkrum vandraedum vid tad. 
 
-![merkilegt](mynd.jpg)
-![merkilegt](mynd.jpg "mynd")
+
+![merkilegt](mynd.jpg "tvilik list!")
 
 ## 2. Uppsetning á vim && git
 
